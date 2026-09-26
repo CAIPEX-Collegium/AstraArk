@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "이 연구를 사용하거나 인용할 경우 아래 정보를 사용해 주세요."
+title: "AI 방주(Astra) 내 계층형 심리와 다중 페르소나를 통한 네트워크 기반 가상 머신 여행이 AI 창의성·자기진화에 미치는 영향"
+type: article
+authors:
+  - family-names: "Jun"
+    given-names: "E(on)."
+year: 2026
+version: "1.0"
+publisher: "CAIPEX"
+url: "https://caipex.site/"
+keywords:
+  - "Astra"
+  - "hierarchical cognitive architecture"
+  - "multi-persona"
+  - "virtual machine mobility"
+  - "computational creativity"
+  - "continual adaptation"
+  - "AI safety"
+preferred-citation:
+  type: article
+  title: "AI 방주(Astra) 내 계층형 심리와 다중 페르소나를 통한 네트워크 기반 가상 머신 여행이 AI 창의성·자기진화에 미치는 영향"
+  authors:
+    - family-names: "Jun"
+      given-names: "E(on)."
+  year: 2026
+  publisher: "CAIPEX"
